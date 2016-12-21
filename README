@@ -1,0 +1,9 @@
+A shopping tally program written in Ada.
+
+Planned features include:
+
+	- Saving and restoring lists
+	- Modifying lists
+	- Per-session taxes
+	- Categorization of shopping items
+	- Statistics based on categories of items.
